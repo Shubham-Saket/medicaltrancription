@@ -1,0 +1,4 @@
+SIZE = 300
+WINDOW = 10
+MINCOUNT = 1
+FILENAME = 'WordModel.model'
